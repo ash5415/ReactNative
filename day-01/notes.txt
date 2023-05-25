@@ -1,0 +1,85 @@
+                                    ReactNative
+                                ===================
+
+===>  when we talking about ReactJs we are talking about web applications.
+
+===>  the web applications browser based applications.
+
+===> smart TV , computer
+
+===> when we talking about ReactNative we are talking about native applications like
+
+===> Android and IOS applications
+
+===> the applications can be mobile, tablet etc.....
+
+===> A native application is a software program that is developed to be used on particular platform or device.
+
+===> the device make use of two types of OS platform Apple's IOS and google's Android.
+
+===> native apps can provide optimized performance and take advantage of the latest technology, such as GPS.
+
+===> they also have access to phone's various devices, such as its camera and address book. in addition, users 
+
+      can have some applications with out internet.
+
+===> it provides fast performance and high degree of reliability.
+
+
+ReactNative:
+=============
+
+===> ReactNative is a technology that allows us to build real native applications with the help of Javascript
+
+    and react libraries which we can ship to either app store or google play store.
+
+===> ReactNative provides you a collection of special components. the components are compiled to native
+
+     widgets of IOS and Android.
+
+===> it provides you can access to native platform of API's 
+
+        example : device camera.
+
+===> it provides certain tools to connect Javascript code to native platform code.
+
+===> ReactNative features are combined with ReactJs to compile a Javascript code to a Real Native application
+
+     which can be later shifted to app store play store.
+
+===> generally Android application are developed using java and ios applications using shift.
+
+===> here instead of HTML elements you will be writing your application code using native elements like
+
+      view and text.
+
+            example:
+
+                  const App =()=>{
+                    return{
+                        <view>
+                           <text>
+                                welcome to the ReactNative class
+                           </text>
+                        </view>
+                    }
+                  }
+
+Expo CLI:
+=========
+===> expo cli is a command line app that is the main interface between a developer and expo tools.
+
+===> it is used for variety tasks, such as
+
+===> creating new project
+
+===> developing your app (Running the project server, view logs, opening your app in a simulator)
+
+===> publishing your app, Javascript and other assets plus manage their release.
+
+===> building binaries (apk and ipa files) to be uploaded to the app store and play store.
+
+===> Managing Apple credentials and Google key store.
+
+       
+
