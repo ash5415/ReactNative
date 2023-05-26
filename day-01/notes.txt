@@ -83,7 +83,7 @@ Expo CLI:
 
      command : sudo npm i -g expo-cli
 
-===> to create project :  expo init <projectName>
+===> to create project :  npx create-expo-app <projectName> && cd <projectName>
 
        
 
