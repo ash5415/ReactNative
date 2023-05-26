@@ -81,5 +81,9 @@ Expo CLI:
 
 ===> Managing Apple credentials and Google key store.
 
+     command : sudo npm i -g expo-cli
+
+===> to create project :  expo init <projectName>
+
        
 
